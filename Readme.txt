@@ -1,0 +1,1 @@
+This is just me learning how to use GitHub through old school git, and learning bash commands, most of which are pretty straight-forward.
